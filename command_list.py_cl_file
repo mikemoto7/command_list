@@ -1,0 +1,7 @@
+module_tree.py --one_line --user_created Portfolio.py | rcsdiff_list.py  --s
+ls
+less test2
+vi /cygdrive/c/Users/mi/Documents/Computer/Python/projects/bin_Linux/manage_duplicate_files.py
+test5 foo5
+Last: ls
+START_TESTS.py --tr misc
